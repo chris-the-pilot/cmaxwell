@@ -11,19 +11,9 @@
 
     <footer class="post-footer">
         <section class="f-1">
-            {{ if isset .Params "author" }}
-            <section class="author">
-                <p>Words by {{ index .Params "author" }}</p>
-            </section>
-            {{ else if isset .Site.Params "author" }}
-            <section class="author">
-                <p>Words by {{ index .Site.Params "author" }}</p>
-            </section>
-            {{ end }}
-            
             <p class="f-post-time"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 2, 2006" }}</time></p>
         </section>
-                        
+
         <section class="f-2">
             <section class="share">
                 <span>Share:
@@ -48,6 +38,6 @@
             	</span>
             {{ end }}
         </section>
-        {{ partial "disqus.html" . }}        
+        {{ partial "disqus.html" . }}
     </footer>
 </article>
