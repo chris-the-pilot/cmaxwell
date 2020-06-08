@@ -17,3 +17,5 @@ fields:
     time_format: 
     display_utc: false
   default: now
+pages:
+- content/posts/hello-world.md
