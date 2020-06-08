@@ -5,7 +5,7 @@ fields:
 - name: text
   type: text
   config:
-    required: false
-  label: Text
+    required: true
+  label: Title
 pages:
 - content/Hello World.md
