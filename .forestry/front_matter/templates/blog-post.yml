@@ -18,4 +18,4 @@ fields:
     display_utc: false
   default: now
 pages:
-- content/posts/hello_world.md
+- content/posts/test-post.md
