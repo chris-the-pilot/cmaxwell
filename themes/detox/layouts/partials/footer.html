@@ -1,0 +1,25 @@
+    <footer id="site-footer">
+        <div class="container">
+          {{ with .Site.Params.instagram }}
+            <a href="https://www.instagram.com/{{ . }}/" title="Instagram" target="_blank"><span class="tooltip"><i class="fa fa-instagram"></i></span></a>
+          {{ end }}
+          {{ with .Site.Params.twitter_name }}
+            <a href="https://www.twitter.com/{{ . }}" title="Twitter" target="_blank"><span class="tooltip"><i class="fa fa-twitter"></i></span></a>
+          {{ end }}
+          {{ with .Site.Params.facebook }}
+            <a href="https://www.facebook.com/{{ . }}" title="Facebook" target="_blank"><span class="tooltip"><i class="fa fa-facebook"></i></span></a>
+          {{ end }}
+          {{ with .Site.Params.linkedin }}
+            <a href="https://www.linkedin.com/in/{{ . }}" title="LinkedIn" target="_blank"><span class="tooltip"><i class="fa fa-linkedin"></i></span></a>
+          {{ end }}
+          {{ with .Site.Params.github }}
+            <a href="https://www.github.com/{{ . }}" title="GitHub" target="_blank"><span class="tooltip"><i class="fa fa-github"></i></span></a>
+          {{ end }}
+          <section>&copy; <a href="{{ .Site.BaseURL }}">{{ .Site.Params.author }}</a> {{ now.Format "2006"}} | All rights reserved</section>
+        </div>
+    </footer>
+
+    <script type="text/javascript" src="{{ .Site.BaseURL }}js/fittext.js"></script>
+    <script type="text/javascript">
+      $(".heading").fitText();
+    </script>
