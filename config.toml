@@ -1,0 +1,11 @@
+baseURL = "http://cmaxwell.org/"
+languageCode = "en-us"
+title = "Christopher Maxwell"
+theme = "detox"
+
+[params]
+  author = "Christopher Maxwell"
+  description = "Entrepreneur & Engineer"
+  facebook = "christopher.maxwell.188"
+  linkedin = "c-maxwell"
+  github = "chris-the-pilot"
