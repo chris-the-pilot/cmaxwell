@@ -7,5 +7,3 @@ fields:
   config:
     required: true
   label: Title
-pages:
-- content/Hello World.md
