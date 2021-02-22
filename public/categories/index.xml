@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Christopher Maxwell</title>
-    <link>https://cmaxwell.orgcategories/</link>
+    <link>https://cmaxwell.org/categories/</link>
     <description>Recent content in Categories on Christopher Maxwell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://cmaxwell.orgcategories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cmaxwell.org/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

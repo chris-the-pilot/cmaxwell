@@ -1,4 +1,4 @@
-baseURL = "https://cmaxwell.org"
+baseURL = "https://cmaxwell.org/"
 languageCode = "en-us"
 title = "Christopher Maxwell"
 theme = "detox"
