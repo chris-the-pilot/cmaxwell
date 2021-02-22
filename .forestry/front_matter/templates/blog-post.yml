@@ -18,5 +18,4 @@ fields:
     display_utc: false
   default: now
 pages:
-- content/posts/hello-world.md
 - content/posts/project-cmaxwell.org.md
