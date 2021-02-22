@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" prefix="og: http://ogp.me/ns#" xmlns:og="http://ogp.me/ns#"><!--<![endif]-->
+
+    <head>
+                <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta name="author" content="Christopher Maxwell">
+  
+	
+        <meta property="og:site_name" content="Christopher Maxwell">
+        <meta property="og:title" content="Christopher Maxwell">
+        <meta property="og:url" content="https://cmaxwell.org/posts/project-cmaxwell.org/">
+        <meta property="og:description" content="Peak-Performance Coach">
+    
+        <meta property="og:type" content="article" />
+        <meta property="og:article:author" content="Christopher Maxwell" />
+        <meta property="og:article:published_time" content="2020-06-10T14:42:17Z" />
+    
+        <meta name="generator" content="Hugo 0.72.0" />
+        <title>Project: CMaxwell.org &middot; Christopher Maxwell</title>
+        <link rel="canonical" href="https://cmaxwell.org/" />
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="">
+        <link rel="stylesheet" type="text/css" href="https://cmaxwell.org/css/main.css"/>
+        <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300|Montserrat:700" rel="stylesheet" type="text/css">
+        <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+        <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+    </head>
+
+<body>
+<!--[if lt IE 7]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chrome/‎">install Google Chrome</a> to experience this site.</p><![endif]-->
+
+    <header id="site-header">
+        <div class="container">
+            <a href="https://cmaxwell.org/" alt="Christopher Maxwell"><h1 class="blog-title heading">Christopher Maxwell</h1></a>
+            <p class="blog-description">Peak-Performance Coach</p>
+        </div>
+    </header>
+<main class="content" role="main">
+	<div class="container">
+		<article class="posts">
+	<header class="post-header">
+        <h3 class="p-post-title">Project: CMaxwell.org</h3>
+    </header>
+
+    <section class="post-content">
+        <p>This website, my personal website was setup to have a clean and sleek look with the capabilities of posting a blog. Having a specific CMS platform like WordPress was too much work and maintenance for a simple platform that I didn&rsquo;t want to maintain. On top of that I did not want to run a server because of needing to setup scalable and fault-tolerant infrastructure. Another concern was the security risk putting up a server on LAMP stack would entail meaning I&rsquo;d have to manage that extra risk. I could of course have gone with another blog platform but I wanted to set this website up as a portfolio project showcasing my infrastructure and DevOps skills, on top of that I also want to own and control my own content. The solution I ended up with was using a serverless static website hosted on S3. The beauty is that I can easily connect a CDN to host my pages with quick load times and because I&rsquo;m running S3 there is virtually no maintance.</p>
+<p><strong>Summary:</strong></p>
+<ul>
+<li>Chose <strong>stack</strong> to setup my website</li>
+<li>Implemented <strong>HUGO</strong> as a <strong>SSG (Static Site Generator)</strong></li>
+<li>Setup <strong>GitHub</strong> repo for SSG and blog content</li>
+<li>Connected Forestry as a <strong>git</strong>-backed CMS</li>
+<li>Built <strong>CI/CD pipeline</strong> using AWS CodePipeline
+<ul>
+<li>Commits coming from GitHub</li>
+<li>Build HUGO-site and package the static site generated to be sent to deploy</li>
+<li>Deploy to <strong>S3-bucket</strong> as a static website</li>
+</ul>
+</li>
+<li>Setup <strong>static website</strong> hosting on S3</li>
+<li>Connect <strong>R53</strong> domain to work on S3</li>
+</ul>
+
+    </section>
+
+    <hr>
+
+    <footer class="post-footer">
+        <section class="f-2">
+            <section class="share">
+                <span>Share:
+                <a class="icon-twitter" href="https://twitter.com/share?text=Project%3a%20CMaxwell.org&url=https%3a%2f%2fcmaxwell.org%2fposts%2fproject-cmaxwell.org%2f"
+                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <i class="fa fa-twitter"></i>
+                </a>
+                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fcmaxwell.org%2fposts%2fproject-cmaxwell.org%2f"
+                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <i class="fa fa-facebook"></i>
+                </a>
+                <a class="icon-google-plus" href="https://plus.google.com/share?url=https%3a%2f%2fcmaxwell.org%2fposts%2fproject-cmaxwell.org%2f"
+                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <i class="fa fa-google-plus"></i>
+                </a>
+                </span>
+            </section>
+
+            
+        </section>
+                
+    </footer>
+</article>
+
+	</div>
+</main>
+    <footer id="site-footer">
+        <div class="container">
+          
+          
+          
+            <a href="https://www.facebook.com/christopher.maxwell.188" title="Facebook" target="_blank"><span class="tooltip"><i class="fa fa-facebook"></i></span></a>
+          
+          
+            <a href="https://www.linkedin.com/in/c-maxwell" title="LinkedIn" target="_blank"><span class="tooltip"><i class="fa fa-linkedin"></i></span></a>
+          
+          
+            <a href="https://www.github.com/chris-the-pilot" title="GitHub" target="_blank"><span class="tooltip"><i class="fa fa-github"></i></span></a>
+          
+          <section>&copy; <a href="https://cmaxwell.org/">Christopher Maxwell</a> 2021 | All rights reserved</section>
+        </div>
+    </footer>
+
+    <script type="text/javascript" src="https://cmaxwell.org/js/fittext.js"></script>
+    <script type="text/javascript">
+      $(".heading").fitText();
+    </script>
+
+
+
+</body>
+</html>
