@@ -19,3 +19,4 @@ fields:
   default: now
 pages:
 - content/posts/project-cmaxwell.org.md
+- content/posts/state.md
