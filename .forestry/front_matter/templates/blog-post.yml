@@ -18,5 +18,6 @@ fields:
     display_utc: false
   default: now
 pages:
+- content/posts/one.md
 - content/posts/project-cmaxwell.org.md
 - content/posts/state.md
