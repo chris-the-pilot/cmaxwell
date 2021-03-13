@@ -19,5 +19,6 @@ fields:
   default: now
 pages:
 - content/posts/one.md
+- content/posts/physiology.md
 - content/posts/project-cmaxwell.org.md
 - content/posts/state.md
