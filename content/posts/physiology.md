@@ -1,6 +1,5 @@
 +++
 date = 2021-03-13T08:01:33Z
-draft = true
 title = "Physiology"
 
 +++
