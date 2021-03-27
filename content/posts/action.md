@@ -13,7 +13,7 @@ Understanding the two forces at play on humans helps understand the equation of 
 
 ![](https://eu-north-1.amazonaws.com/cmaxwell.org-media/Behavior_Model.png)
 
-![](https://eu-north-1.amazonaws.com/cmaxwell.org-media/Behavior_Model.png)
+![](https://eu-north-1.amazonaws.com/cmaxwell.org-media/Behavior_Model.png "Behavior Model")
 
 The key is that your motivation must be high enough and ability easy enough for you to get over the action line. Once you’re above the action line you will perform any behavior when prompted to do so. If you have no motivation to do something you won’t do it no matter how easy it is to perform. The reverse also holds true, if you have lots of motivation but the task is well beyond your current ability you won’t be able to do it. You will only take action when motivation and ability converge above the action line when prompted.
 
