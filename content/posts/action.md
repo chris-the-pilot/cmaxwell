@@ -11,7 +11,9 @@ The two governing forces of human behavior are pain and pleasure, or pain and ga
 
 Understanding the two forces at play on humans helps understand the equation of human behavior. Behavior happens when motivation, ability, and prompt converge at the same time, B=MAP. This equation determines if we’re going to perform a behavior or not. The model was developed by Stanford behavioral scientist BJ Fogg. Let me explain, behavior is a specific action, e.g. floss a tooth. Motivation is your desire to perform the behavior, e.g. you want clean teeth. Ability is your capacity to do the behavior, e.g. you know how to floss your teeth and you have floss available. Prompt is the cue to do the behavior, e.g. finish brushing your teeth. Following this formula, you will floss after brushing your teeth as long as you want clean teeth, know how to floss, and have floss. This model can be used to perform any behavior.
 
-![](https://lh4.googleusercontent.com/ryJ2ayQsd2yBG66CN7T5yJNBU_qV4a18SbHb5zPRuqxFFfTS-o7mnnCJPDPsIf_DAkXuGzcpg9PUuy6KM1LdHGPwBqnWcyWus4Va-nXcWPoostFLIsvTefQQpFMVVPLbdq9K_dVY =312x312)![](https://eu-north-1.amazonaws.com/cmaxwell.org-media/Behavior_Model.png)
+![](https://eu-north-1.amazonaws.com/cmaxwell.org-media/Behavior_Model.png)
+
+![](https://eu-north-1.amazonaws.com/cmaxwell.org-media/Behavior_Model.png)
 
 The key is that your motivation must be high enough and ability easy enough for you to get over the action line. Once you’re above the action line you will perform any behavior when prompted to do so. If you have no motivation to do something you won’t do it no matter how easy it is to perform. The reverse also holds true, if you have lots of motivation but the task is well beyond your current ability you won’t be able to do it. You will only take action when motivation and ability converge above the action line when prompted.
 
