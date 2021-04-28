@@ -18,4 +18,13 @@ fields:
     display_utc: false
   default: now
 pages:
+- content/posts/action.md
+- content/posts/consistency.md
+- content/posts/focus.md
+- content/posts/metamorphosis.md
+- content/posts/momentum.md
+- content/posts/one.md
+- content/posts/physiology.md
+- content/posts/procrastination.md
 - content/posts/project-cmaxwell.org.md
+- content/posts/state.md
