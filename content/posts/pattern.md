@@ -15,4 +15,4 @@ To learn patterns you want to do so in reduced complexity. The reason is that si
 
 Through repetition and practice, you’ll find patterns that build the fundamentals and principles of your field. This is a part of how you achieve mastery in any field and perform with flow. Now go practice in reduced complexity to learn the patterns of your craft and become a master.
 
-Love you
+Until next time!
