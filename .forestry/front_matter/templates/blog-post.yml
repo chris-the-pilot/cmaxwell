@@ -19,6 +19,7 @@ fields:
   default: now
 pages:
 - content/posts/action.md
+- content/posts/assumptions.md
 - content/posts/chunks.md
 - content/posts/consistency.md
 - content/posts/focus.md
