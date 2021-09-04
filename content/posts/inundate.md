@@ -1,0 +1,22 @@
++++
+date = 2021-09-04T09:34:06Z
+title = "Inundate"
+
++++
+Your brain can’t tell the difference between imagination and reality. We want to be clear-headed and present, but sometimes our mind thinks about all the things we need to get done and we get overwhelmed.
+
+In order for us to de-load our brains from information overload, we need to disconnect from the future and past for a while and connect with the present. First, we need to understand what stress is and how our minds can’t distinguish the difference between real physical stress and imagined stress. Once we know that the mind can create its own stress we can look at how we can avoid this stress. Finally, how do we combine being present with planning the future and learning from the past so we can make massive progress in our lives while still being present?
+
+You might have heard of fight or flight, our defense mechanism. In the past, and still, today, if we encountered danger our bodies would produce acute stress which would force us to decide if we should fight or run away from the danger. It could have been an animal like a bear or lion, or an enemy tribe attacking us with spears. The natural response would be either to fight or run away. And once the danger was out of the way our bodies’ stress response would go back to normal levels. But today, for many of us, our bodies are stuck in perpetual stress.
+
+Our bodies are stuck in perpetual stress because of how we deal with things mentally. The biggest part is to understand that stress is caused in our minds. It doesn’t matter if the stress is real or imagined, the reason for this is that the mind can’t tell the difference between imagination and reality. This principle can be used to your advantage in metamorphosis but in this case, we’ll focus on how it brings you down and how you can take control and not have it bring you down.
+
+You perceive reality through your sense, which in turn go to your brain to get processed. Just like a computer, you control it with a mouse and keyboard, your mind gets its input from your touch, smell, and vision, etc. Your brain gets the input from the senses and then processes those senses. If you see a bear with your vision your brain perceives it and creates a stress response to get you to move your body. But just like a computer can simulate that there is input from a keyboard and mouse, you can simulate input into your brain. Your brain will then act as if the input was real, for this reason, your brain can’t tell the difference between reality and imagination.
+
+When we have things we need to do such as create or learn something we might get overwhelmed by all the things we need to get done. When this happens you’re no longer in the present, you’re in the future. Being in the future and worrying about the things for the future will create stress as if you were in the future. The same thing holds true if you’re worrying about the past. Your mind will create a response of stress about the past.
+
+There are times when you should visit the past to learn from it. As there are times you should visit the future to architect a better version of yourself. But once you’ve learned what you need, and you’ve designed who you want to become and the steps to get there. Then it’s time to get in the present and focus on what you have in front of you need to be present, not focusing on what you’re going to do in a minute, or who you’re going to meet next. Just focus on executing the task you have in front of you. If you’re writing, focus on the word you’re writing, if you’re coding, focus on the line of code, if you’re lifting, focusing on the lift you’re doing, not the next word, line of code, or lift.
+
+There might be a lot of information for you to go through but if you have planned your future you just need to focus on executing. You then see how far it gets you just focusing on the task at hand. After doing it for a few days or weeks you can notice if it’s sustainable or if you’ve overestimated your ability. Either way, nothing is wrong or right, you’re just running an experiment to see what loads you can carry. In the moment, you don’t judge how much or little you can carry, you just carry what you can and the next time you plan your future you can take in account how much you managed and see if it’s worth training yourself to carry more. But in the moment you need to be content with where you are with your performance because the stress is not going to help.
+
+To your success, see you next week friend!
