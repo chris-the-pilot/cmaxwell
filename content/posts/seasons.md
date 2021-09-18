@@ -1,0 +1,6 @@
++++
+date = 2021-09-18T07:51:21Z
+title = "Seasons"
+
++++
+Animals don’t live every day the same, they change their behavior based on environmental factors. The same with us humans, we need to change our behavior based on environmental factors. As humans, most of us do change our behavior based on the environment. But a lot of us in the western world are stuck in perpetual summer. We try to live every day like it’s a wonderful summer day, not because we want to wear shorts in the winter, but because we eat virtually the same foods every day, live the same routine, work the same hours, sleep the same hours. Just like plants and animals adapt to the seasons to grow stronger year by year, so should we humans live to grow stronger year by year. By constantly being stuck in summer mode we’re not giving our bodies time to rest and that is having a huge impact on us. Living with the seasons means slowing down in autumn and winter, and contemplating the future, eating less, moving less, working less, during this time we can architect our future. Then when spring and summer come around we go into action mode and we have regained huge energy from our rest and with that newfound energy, we want to take action, explore the world, grow stronger, meet new people.
