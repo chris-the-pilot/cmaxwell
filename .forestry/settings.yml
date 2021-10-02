@@ -16,7 +16,7 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: https://eu-north-1.amazonaws.com/cmaxwell.org-media
+upload_dir: ''
 public_path: https://eu-north-1.amazonaws.com/cmaxwell.org-media
 front_matter_path: ''
 use_front_matter_path: 
